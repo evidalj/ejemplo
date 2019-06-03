@@ -51,7 +51,7 @@ h6 {
   grid-template-columns: repeat(12, 8.333333333%);
 }
 .col {
-  padding: 1rem;
+  padding: 0.1rem;
   border: 1px solid;
 }
 /*Posiciones en dispositivos small*/
