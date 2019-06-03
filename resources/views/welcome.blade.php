@@ -8,6 +8,10 @@
 </head>
 <body>
     <h1>El proyecto funciona correctamente</h1>
+    <div id="app">
+        <example-component></example-component>
+    </div>
+    <script src="js/app.js"></script>
     <script>
         fetch('personas/all').then(r=>{
             console.log(r);
